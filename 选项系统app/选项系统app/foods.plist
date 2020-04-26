@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>起源</string>
+		<string>源计划：风</string>
+		<string>源计划：林</string>
+		<string>源计划：火</string>
+		<string>源计划：山</string>
+		<string>源计划：雷</string>
+		<string>源计划：阴</string>
+	</array>
+	<array>
+		<string>猎杀</string>
+		<string>源计划：裁决</string>
+		<string>源计划：净化</string>
+		<string>源计划：升华</string>
+		<string>源计划：毁灭</string>
+		<string>源计划：联合</string>
+	</array>
+</array>
+</plist>
